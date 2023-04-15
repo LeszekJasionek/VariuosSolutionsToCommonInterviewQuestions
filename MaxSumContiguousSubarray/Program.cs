@@ -28,14 +28,21 @@
 
             for (int i = 1; i < n; i++)
             {
-                // Wybieranie większej wartości spośród A[i] oraz sumy A[i] i aktualnej sumy
+                // PL : Wybieranie większej wartości spośród A[i] oraz sumy A[i] i aktualnej sumy
+                // ENG: Selecting the greater value between A[i] and the sum of A[i] and the current sum
+                // NL : Het selecteren van de grotere waarde tussen A[i] en de som van A[i] en de huidige som
+
                 currSum = Math.Max(A[i], currSum + A[i]);
 
-                // Porównywanie maksymalnej sumy z aktualną sumą
+                // PL : Porównywanie maksymalnej sumy z aktualną sumą
+                // ENG : Comparing the maximum sum with the current sum
+                // NL : Het vergelijken van de maximale som met de huidige som
                 maxSum = Math.Max(maxSum, currSum);
             }
 
-            // Zwracanie maksymalnej sumy
+            // PL : Zwracanie maksymalnej sumy
+            // ENG: Returning the maximum sum
+            // NL : Het retourneren van de maximale som
             return maxSum;
         }
     }
