@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "Majority
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumContiguousSubarray", "MaxSumContiguousSubarray\MaxSumContiguousSubarray.csproj", "{AA2576CE-C9B9-4C95-8C60-0761BD8A8430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheString", "ReverseTheString\ReverseTheString.csproj", "{BB525095-2E10-4BFD-8F88-41DA6C5E5DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA2576CE-C9B9-4C95-8C60-0761BD8A8430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2576CE-C9B9-4C95-8C60-0761BD8A8430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2576CE-C9B9-4C95-8C60-0761BD8A8430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB525095-2E10-4BFD-8F88-41DA6C5E5DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB525095-2E10-4BFD-8F88-41DA6C5E5DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB525095-2E10-4BFD-8F88-41DA6C5E5DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB525095-2E10-4BFD-8F88-41DA6C5E5DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

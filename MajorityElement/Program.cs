@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Solution sol = new Solution();
+            SolutionMajorityElement sol = new SolutionMajorityElement();
             List<int> A = new List<int>() { 2, 1, 2 };
             int majority = sol.majorityElement(A);
             Console.WriteLine(majority);
@@ -12,7 +12,7 @@
     }
 
 
-    public class Solution
+    public class SolutionMajorityElement
     {
         public int majorityElement(List<int> A)
         {

@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Solution sol = new Solution();
+            SolutionMaxSumContiguousSubarray sol = new SolutionMaxSumContiguousSubarray();
             List<int> A1 = new List<int>() { 1, 2, 3, 4, -10 };
             List<int> A2 = new List<int>() { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
             Console.WriteLine(sol.maxSubArray(A1));
@@ -14,7 +14,7 @@
 
     }
 
-    public class Solution
+    public class SolutionMaxSumContiguousSubarray
     {
         public int maxSubArray(List<int> A)
         {
