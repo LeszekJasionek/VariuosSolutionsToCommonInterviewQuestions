@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseTheString", "Reverse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArrays", "MultiDimensionalArrays\MultiDimensionalArrays.csproj", "{6F8B4215-6904-465E-99AE-7B1DADC37AD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{611097CC-AAD2-458D-897B-D3F330F1FFBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6F8B4215-6904-465E-99AE-7B1DADC37AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F8B4215-6904-465E-99AE-7B1DADC37AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F8B4215-6904-465E-99AE-7B1DADC37AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
