@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArrays", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{611097CC-AAD2-458D-897B-D3F330F1FFBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{87B5113D-D63D-4528-B62B-51A4A5382133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611097CC-AAD2-458D-897B-D3F330F1FFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B5113D-D63D-4528-B62B-51A4A5382133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B5113D-D63D-4528-B62B-51A4A5382133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B5113D-D63D-4528-B62B-51A4A5382133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B5113D-D63D-4528-B62B-51A4A5382133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
