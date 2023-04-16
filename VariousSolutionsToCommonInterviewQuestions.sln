@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryInCsharp", "Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsInCsharp", "GenericsInCsharp\GenericsInCsharp.csproj", "{B304D202-0A88-4031-B939-97630FD7FF6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParantheses", "BalancedParantheses\BalancedParantheses.csproj", "{86C63E46-CC4D-4DA8-93AE-BF51FB5C4057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B304D202-0A88-4031-B939-97630FD7FF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B304D202-0A88-4031-B939-97630FD7FF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B304D202-0A88-4031-B939-97630FD7FF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C63E46-CC4D-4DA8-93AE-BF51FB5C4057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C63E46-CC4D-4DA8-93AE-BF51FB5C4057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C63E46-CC4D-4DA8-93AE-BF51FB5C4057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C63E46-CC4D-4DA8-93AE-BF51FB5C4057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
