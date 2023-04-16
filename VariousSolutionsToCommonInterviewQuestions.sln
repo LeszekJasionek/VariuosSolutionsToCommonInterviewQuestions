@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{87B5113D-D63D-4528-B62B-51A4A5382133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets", "Sets\Sets.csproj", "{B7FF7C44-B088-4437-99E4-F52B1F018B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{87B5113D-D63D-4528-B62B-51A4A5382133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87B5113D-D63D-4528-B62B-51A4A5382133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87B5113D-D63D-4528-B62B-51A4A5382133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FF7C44-B088-4437-99E4-F52B1F018B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FF7C44-B088-4437-99E4-F52B1F018B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FF7C44-B088-4437-99E4-F52B1F018B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FF7C44-B088-4437-99E4-F52B1F018B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
